@@ -1,7 +1,7 @@
 # Chat-Application
 In this program we implement both the server and client parts of a chat program. You must use TCP sockets 
 
-## functiona
+## function
 1-The server should allow for multiple simultaneous clients (Multithread).
 
 2-Any client can get a list of all other connected clients from the server.
@@ -16,8 +16,11 @@ In this program we implement both the server and client parts of a chat program.
 
  ## Use this command in the client part:
 who's is online => to Know online users
-to: => to send private message   
+
+to: => to send private message 
+
 group: => to send message to group of user
+
 send file => to send file user
 
 
